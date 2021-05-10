@@ -1,0 +1,76 @@
+{
+    "externalLinksdata": [
+        {
+            "no": "1",
+            "name": "Indiashield",
+            "link": "https://www.indiashield.in/"
+        },
+        {
+            "no": "2",
+            "name": "Eglobaldoctors",
+            "link": "https://eglobaldoctors.com/#/home"
+        },
+        {
+            "no": "3",
+            "name": "Covidpune",
+            "link": "https://covidpune.com/remdesivir"
+        },
+        {
+            "no": "4",
+            "name": "Hydcovidresources",
+            "link": "https://hydcovidresources.com/"
+        },
+        {
+            "no": "5",
+            "name": "Covidrelief",
+            "link": "https://covidrelief.glideapp.io/"
+        },
+        {
+            "no": "6",
+            "name": "Covid Seva-West Bengal",
+            "link": "https://linktr.ee/covid_kolkata_directory"
+        },
+         {
+            "no": "7",
+            "name": "Covid Resources Across India",
+            "link": "https://public.tableau.com/views/CovidHelp/Search?:language=en-GB&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no"
+        } , {
+            "no": "8",
+            "name": "Cowin Slots Mumbai",
+            "link": "https://t.me/cowin_slots_mum"
+        },
+        {
+            "no": "9",
+            "name": "Cowin Alerts Mumbai",
+            "link": "https://t.me/covialerts"
+        }
+    ],
+
+    "documents": [
+        {
+          "name": "List of FDA Officers of FDA to be contacted for Remdesivir",
+          "fileName": "ListFDARemdesivir.pdf",
+          "updated":  "17/4/2021" 
+        },
+       
+        {
+            "name": "Tocilizumab Distributor List",
+            "fileName": "TocilizumabDistributorList.pdf",
+            "updated":  "25/4/2021"  
+         }
+
+      ],
+
+      "miscDoc": [
+        {
+            "name": "List of Medical Oxygen Gas Suppliers",
+            "fileName": "oxygenGasSuppliers.pdf",
+            "updated":  "24/4/2021" 
+         },
+         {
+            "name": "Testing Centers",
+            "fileName": "TestingCentres.pdf",
+            "updated":  "23/4/2021"  
+         }
+      ]
+}

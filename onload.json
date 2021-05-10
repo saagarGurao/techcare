@@ -1,0 +1,15 @@
+{
+    "onLoadData": [
+
+        {
+            "name": "  Live Twitter Leads ",
+            "link": "https://external.sprinklr.com/insights/explorer/dashboard/601b9e214c7a6b689d76f493/tab/16?id=DASHBOARD_601b9e214c7a6b689d76f493&tabId=16&home=1",
+            "imgName": "twitter.png"
+        },
+        {
+            "name": "Vaccinate Me",
+            "link": "https://www.vaccinateme.in/",
+            "imgName": "vaccine.png"
+        }
+    ]
+}
